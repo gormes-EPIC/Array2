@@ -1,5 +1,4 @@
-
-# Lab 10
+# Arrays 2
 ## Part  1 - Flower Bed
 
 In this part, you will create three classes. `Flower`, `FlowerBed`, and `FlowerRunner`.
